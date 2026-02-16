@@ -13,7 +13,7 @@ export const App = () => {
       
 
       <h1> Tarjeta de usuario 😺</h1>
-      <User image= "./pavorico.jpeg" nombre="pavo" estado="alive" />
+      <User  image= "./pavorico.jpeg" nombre="pavo" estado="alive" />
       <User image= "./pato_musculos.jpeg" nombre="pato" estado="dead" />
       <User image= "./ricki.jpeg" nombre="ricki" estado="dead" />
 

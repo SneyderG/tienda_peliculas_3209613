@@ -9,7 +9,7 @@ export const User = ({image, nombre, estado}) => {
 
 
 
-      <div className="grid">
+      <div className="grid resplandor">
 
 
         <div className="card">
